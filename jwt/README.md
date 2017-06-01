@@ -1,5 +1,5 @@
 # Requirements
 
-``bash
+```bash
 pip install python-jose
 ```
